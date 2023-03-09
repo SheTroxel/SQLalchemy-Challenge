@@ -12,3 +12,5 @@ Linked Python to the database by creating a SQLAlchemy session
 Analysis included finding the most recent date in the dataset. 
 Using this date, get the previous 12 months of precipitaton data.
 By sorting the DataFrame values by date, I plotted the results to show the preciptation in inches.
+
+![Precipitation](https://github.com/SheTroxel/SQLalchemy-Challenge/blob/main/precip_bar.png)
